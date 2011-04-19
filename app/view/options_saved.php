@@ -1,0 +1,1 @@
+<div class="updated"><p><strong><?php _e('Options saved.', THE_PLUGIN_NAME); ?></strong></p></div>
